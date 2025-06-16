@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { Flex } from "@mantine/core";
-import { MyActionListener } from "../lib/MyActionListener";
+import { MyActionListener } from "../lib/myActionListener";
 import { WordSquares } from "../components/WordSquares";
 import { Keyboard } from "../components/Keyboard";
 import { checkIfRealWord } from "../lib/checkIfRealWord";
